@@ -1,0 +1,20 @@
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\bin\Debug\net8.0-windows\Lab 3 - Bài 6.exe
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\bin\Debug\net8.0-windows\Lab 3 - Bài 6.deps.json
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\bin\Debug\net8.0-windows\Lab 3 - Bài 6.runtimeconfig.json
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\bin\Debug\net8.0-windows\Lab 3 - Bài 6.dll
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\bin\Debug\net8.0-windows\Lab 3 - Bài 6.pdb
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\obj\Debug\net8.0-windows\Lab_3___Bài_6.Form1.resources
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\obj\Debug\net8.0-windows\Lab_3___Bài_6.Client.resources
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\obj\Debug\net8.0-windows\Lab_3___Bài_6.Properties.Resources.resources
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\obj\Debug\net8.0-windows\Lab_3___Bài_6.Server.resources
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\obj\Debug\net8.0-windows\Lab_3___Bài_6.Sign_up.resources
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\obj\Debug\net8.0-windows\Lab 3 - Bài 6.csproj.GenerateResource.cache
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\obj\Debug\net8.0-windows\Lab 3 - Bài 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\obj\Debug\net8.0-windows\Lab 3 - Bài 6.AssemblyInfoInputs.cache
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\obj\Debug\net8.0-windows\Lab 3 - Bài 6.AssemblyInfo.cs
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\obj\Debug\net8.0-windows\Lab 3 - Bài 6.csproj.CoreCompileInputs.cache
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\obj\Debug\net8.0-windows\Lab 3 - Bài 6.dll
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\obj\Debug\net8.0-windows\refint\Lab 3 - Bài 6.dll
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\obj\Debug\net8.0-windows\Lab 3 - Bài 6.pdb
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\obj\Debug\net8.0-windows\Lab 3 - Bài 6.genruntimeconfig.cache
+D:\Network_programming\Practice\Lab3\22520101_DinhHuynhGiaBao_BaoCaoLab03\Lab03_Bai6\obj\Debug\net8.0-windows\ref\Lab 3 - Bài 6.dll

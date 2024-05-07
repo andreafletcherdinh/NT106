@@ -1,0 +1,31 @@
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\Lab 3 - Bài 4.exe.config
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\Lab 3 - Bài 4.exe
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\Lab 3 - Bài 4.pdb
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\obj\Debug\Lab 3 - Bài 4.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\obj\Debug\Lab_3___Bài_4.Bai4.resources
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\obj\Debug\Lab_3___Bài_4.Client.resources
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\obj\Debug\Lab_3___Bài_4.Properties.Resources.resources
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\obj\Debug\Lab_3___Bài_4.Server.resources
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\obj\Debug\Lab 3 - Bài 4.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\obj\Debug\Lab 3 - Bài 4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\obj\Debug\Lab 3 - Bài 4.csproj.CopyComplete
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\obj\Debug\Lab 3 - Bài 4.exe
+C:\Users\Admin\Downloads\22520438-NguyenDangMinhHieu (1)\Lab 3 - Bài 4\obj\Debug\Lab 3 - Bài 4.pdb
