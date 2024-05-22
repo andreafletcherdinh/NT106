@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{206A8967-1F42-4618-B157-7971E92A950E}|Lab05Bai4\\Lab05Bai4.csproj|e:\\bai1\\lab05bai4\\themonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{206A8967-1F42-4618-B157-7971E92A950E}|Lab05Bai4\\Lab05Bai4.csproj|solutionrelative:lab05bai4\\themonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206A8967-1F42-4618-B157-7971E92A950E}|Lab05Bai4\\Lab05Bai4.csproj|e:\\bai1\\lab05bai4\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{206A8967-1F42-4618-B157-7971E92A950E}|Lab05Bai4\\Lab05Bai4.csproj|solutionrelative:lab05bai4\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206A8967-1F42-4618-B157-7971E92A950E}|Lab05Bai4\\Lab05Bai4.csproj|e:\\bai1\\lab05bai4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{206A8967-1F42-4618-B157-7971E92A950E}|Lab05Bai4\\Lab05Bai4.csproj|solutionrelative:lab05bai4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206A8967-1F42-4618-B157-7971E92A950E}|Lab05Bai4\\Lab05Bai4.csproj|e:\\bai1\\lab05bai4\\invite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{206A8967-1F42-4618-B157-7971E92A950E}|Lab05Bai4\\Lab05Bai4.csproj|solutionrelative:lab05bai4\\invite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206A8967-1F42-4618-B157-7971E92A950E}|Lab05Bai4\\Lab05Bai4.csproj|e:\\bai1\\lab05bai4\\hienthiketquamonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{206A8967-1F42-4618-B157-7971E92A950E}|Lab05Bai4\\Lab05Bai4.csproj|solutionrelative:lab05bai4\\hienthiketquamonan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206A8967-1F42-4618-B157-7971E92A950E}|Lab05Bai4\\Lab05Bai4.csproj|e:\\bai1\\lab05bai4\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{206A8967-1F42-4618-B157-7971E92A950E}|Lab05Bai4\\Lab05Bai4.csproj|solutionrelative:lab05bai4\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4B2D27-119D-4552-A875-C249D21854F2}|..\\22520000-NguyenVanBao\\Lab5-1\\Lab5.csproj|e:\\22520000-nguyenvanbao\\lab5-1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Themonan.cs [Design]",
+              "DocumentMoniker": "E:\\bai1\\Lab05Bai4\\Themonan.cs",
+              "RelativeDocumentMoniker": "Lab05Bai4\\Themonan.cs",
+              "ToolTip": "E:\\bai1\\Lab05Bai4\\Themonan.cs [Design]",
+              "RelativeToolTip": "Lab05Bai4\\Themonan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:54:50.838Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sign up.cs [Design]",
+              "DocumentMoniker": "E:\\bai1\\Lab05Bai4\\Sign up.cs",
+              "RelativeDocumentMoniker": "Lab05Bai4\\Sign up.cs",
+              "ToolTip": "E:\\bai1\\Lab05Bai4\\Sign up.cs [Design]",
+              "RelativeToolTip": "Lab05Bai4\\Sign up.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:54:48.85Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\bai1\\Lab05Bai4\\Login.cs",
+              "RelativeDocumentMoniker": "Lab05Bai4\\Login.cs",
+              "ToolTip": "E:\\bai1\\Lab05Bai4\\Login.cs [Design]",
+              "RelativeToolTip": "Lab05Bai4\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:54:46.858Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Invite.cs [Design]",
+              "DocumentMoniker": "E:\\bai1\\Lab05Bai4\\Invite.cs",
+              "RelativeDocumentMoniker": "Lab05Bai4\\Invite.cs",
+              "ToolTip": "E:\\bai1\\Lab05Bai4\\Invite.cs [Design]",
+              "RelativeToolTip": "Lab05Bai4\\Invite.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:54:45.347Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hienthiketquamonan.cs [Design]",
+              "DocumentMoniker": "E:\\bai1\\Lab05Bai4\\Hienthiketquamonan.cs",
+              "RelativeDocumentMoniker": "Lab05Bai4\\Hienthiketquamonan.cs",
+              "ToolTip": "E:\\bai1\\Lab05Bai4\\Hienthiketquamonan.cs [Design]",
+              "RelativeToolTip": "Lab05Bai4\\Hienthiketquamonan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:54:43.378Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailSetting.cs [Design]",
+              "DocumentMoniker": "E:\\bai1\\Lab05Bai4\\EmailSetting.cs",
+              "RelativeDocumentMoniker": "Lab05Bai4\\EmailSetting.cs",
+              "ToolTip": "E:\\bai1\\Lab05Bai4\\EmailSetting.cs [Design]",
+              "RelativeToolTip": "Lab05Bai4\\EmailSetting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:54:07.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\22520000-NguyenVanBao\\Lab5-1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\22520000-NguyenVanBao\\Lab5-1\\Form1.Designer.cs",
+              "ToolTip": "E:\\22520000-NguyenVanBao\\Lab5-1\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\22520000-NguyenVanBao\\Lab5-1\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:44:47.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

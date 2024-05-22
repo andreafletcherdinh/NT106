@@ -1,0 +1,13 @@
+D:\Network_programming\Practice\Lab4\22520101_DinhHuynhGiaBao_BaoCaoLab04\Bai05_Lab04\Bai05\bin\Debug\Bai05.exe.config
+D:\Network_programming\Practice\Lab4\22520101_DinhHuynhGiaBao_BaoCaoLab04\Bai05_Lab04\Bai05\bin\Debug\Bai05.exe
+D:\Network_programming\Practice\Lab4\22520101_DinhHuynhGiaBao_BaoCaoLab04\Bai05_Lab04\Bai05\bin\Debug\Bai05.pdb
+D:\Network_programming\Practice\Lab4\22520101_DinhHuynhGiaBao_BaoCaoLab04\Bai05_Lab04\Bai05\obj\Debug\Bai05.csproj.AssemblyReference.cache
+D:\Network_programming\Practice\Lab4\22520101_DinhHuynhGiaBao_BaoCaoLab04\Bai05_Lab04\Bai05\obj\Debug\Bai05.Properties.Resources.resources
+D:\Network_programming\Practice\Lab4\22520101_DinhHuynhGiaBao_BaoCaoLab04\Bai05_Lab04\Bai05\obj\Debug\Bai05.csproj.GenerateResource.cache
+D:\Network_programming\Practice\Lab4\22520101_DinhHuynhGiaBao_BaoCaoLab04\Bai05_Lab04\Bai05\obj\Debug\Bai05.csproj.CoreCompileInputs.cache
+D:\Network_programming\Practice\Lab4\22520101_DinhHuynhGiaBao_BaoCaoLab04\Bai05_Lab04\Bai05\obj\Debug\Bai05.exe
+D:\Network_programming\Practice\Lab4\22520101_DinhHuynhGiaBao_BaoCaoLab04\Bai05_Lab04\Bai05\obj\Debug\Bai05.pdb
+D:\Network_programming\Practice\Lab4\22520101_DinhHuynhGiaBao_BaoCaoLab04\Bai05_Lab04\Bai05\obj\Debug\Bai05.Bai05Form.resources
+D:\Network_programming\Practice\Lab4\22520101_DinhHuynhGiaBao_BaoCaoLab04\Bai05_Lab04\Bai05\bin\Debug\Newtonsoft.Json.dll
+D:\Network_programming\Practice\Lab4\22520101_DinhHuynhGiaBao_BaoCaoLab04\Bai05_Lab04\Bai05\bin\Debug\Newtonsoft.Json.xml
+D:\Network_programming\Practice\Lab4\22520101_DinhHuynhGiaBao_BaoCaoLab04\Bai05_Lab04\Bai05\obj\Debug\Bai05.csproj.CopyComplete
